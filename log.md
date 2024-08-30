@@ -15,5 +15,11 @@
 
 **Thoughts:** I felt so happy today that I installed this OS. It's incredibly smooth and simple and perfectly tailored for a programming environment!
 
+### Day 2: August 30, 2024 
+
+
+**Today's Progress**: Created a Recipe Website using HTML.
+
+
 
 
