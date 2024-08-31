@@ -20,6 +20,10 @@
 
 **Today's Progress**: Created a Recipe Website using HTML.
 
+### Day 3: August 31, 2024 
+
+
+**Today's Progress**: Added Styling to the Recipe website using CSS. Solved 2 leetcode problems (back to the game!)
 
 
 
