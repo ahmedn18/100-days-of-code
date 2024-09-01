@@ -26,4 +26,9 @@
 **Today's Progress**: Added Styling to the Recipe website using CSS. Solved 2 leetcode problems (back to the game!)
 
 
+### Day 4: Septemeber 01, 2024 
+
+
+**Today's Progress**: Added MORE Styling to the Recipe website using CSS. Solved  5 leetcode problems.
+
 
