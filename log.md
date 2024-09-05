@@ -26,9 +26,20 @@
 **Today's Progress**: Added Styling to the Recipe website using CSS. Solved 2 leetcode problems (back to the game!)
 
 
-### Day 4: Septemeber 01, 2024 
+### Day 4: September 01, 2024 
 
 
 **Today's Progress**: Added MORE Styling to the Recipe website using CSS. Solved  5 leetcode problems.
+
+### Day 5: September 02, 2024 
+
+
+**Today's Progress**:  I learned how to use flexbox (aka flexible box) in CSS. It’s so powerful. Even though I learned it before, I learned a lot more today (filled a lot of gaps). Great day!
+
+### Day 6: September 04, 2024 
+
+
+**Today's Progress**:  I utilized the CodeSpaces tutorial by github to make my own portfolio website powered by reactjs framework.
+
 
 
