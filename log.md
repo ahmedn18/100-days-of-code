@@ -41,5 +41,12 @@
 
 **Today's Progress**:  I utilized the CodeSpaces tutorial by github to make my own portfolio website powered by reactjs framework.
 
+### Day 7: September 06, 2024 
+
+
+**Today's Progress**:  
+- Solved 2 C++ leetcode problems
+-  Learned some of JavaScript's quircks
+
 
 
