@@ -46,7 +46,17 @@
 
 **Today's Progress**:  
 - Solved 2 C++ leetcode problems
--  Learned some of JavaScript's quircks
+-  Learned some of JavaScript's quirks
+
+
+### Day 8: September 07, 2024 
+
+
+**Today's Progress**:  
+- Solved 2 C++ leetcode problems
+- Completed a js project
+- Completed chapters 1, and 2 from intermediate python for data science by 
+DataCamp
 
 
 
