@@ -58,5 +58,10 @@
 - Completed chapters 1, and 2 from intermediate python for data science by 
 DataCamp
 
+### Day 9: September 08, 2024 
+
+
+**Today's Progress**:  
+- Learned about test driven development (TDD)
 
 
